@@ -1,0 +1,14 @@
+server:
+  port: 8080
+  servlet:
+    contextPath: /portal/api/v1
+logging:
+  level:
+    ROOT: INFO
+    com.netshell.app.portal: DEBUG
+spring:
+  jpa:
+    database: derby
+    generate-ddl: true
+    show-sql: false
+

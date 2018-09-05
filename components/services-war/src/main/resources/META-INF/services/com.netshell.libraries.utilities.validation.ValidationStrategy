@@ -1,0 +1,18 @@
+#
+# com.netshell.libraries.utilities.validation.ValidationStrategy
+#
+# 9/4/18 8:08 PM
+#
+# Copyright (c) 1996 to 20018 Amdocs Software Systems Limited.
+# All rights reserved.
+#
+# These coded instructions, statements, and computer programs contain
+# unpublished trade secrets and proprietary information of Amdocs
+# Software Systems Limited and are protected by Federal copyright law
+# and trade secret law.  They may not be disclosed to third parties or
+# used or copied or duplicated in any form, in whole or in part, without
+# the prior written consent of Amdocs Software Systems Limited.
+#
+
+com.netshell.app.portal.validations.PortalApplicationValidation
+com.netshell.app.portal.validations.UserValidation
